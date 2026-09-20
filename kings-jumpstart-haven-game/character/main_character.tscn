@@ -1,12 +1,12 @@
 [gd_scene load_steps=3 format=3 uid="uid://15snvge13g01"]
 
-[ext_resource type="Texture2D" uid="uid://5v21ip4bi30p" path="res://character.png" id="1_48ufq"]
+[ext_resource type="Texture2D" uid="uid://5v21ip4bi30p" path="res://character/character.png" id="1_48ufq"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_48ufq"]
 radius = 224.953
 height = 663.157
 
-[node name="CharacterBody2D" type="CharacterBody2D"]
+[node name="CharacterBody2D" type="CharacterBody2D" groups=["Player"]]
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 position = Vector2(5, 14)

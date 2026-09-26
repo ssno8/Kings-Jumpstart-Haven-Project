@@ -17,3 +17,5 @@ _Textures:_
 <li>https://youtu.be/K-F_wgb6fqs</li>
 
 ### NO AI WAS USED IN THE CREATION OF THIS GAME
+
+## How to Run the Game Locally

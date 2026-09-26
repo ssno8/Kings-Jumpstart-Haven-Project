@@ -1,6 +1,6 @@
 # Kings Jumpstart Haven Project
 
-This is my silly little platformer game with a total of three levels. The first two levels are just platforms, but the last level takes it up a notch with the addition of restarting when falling. The game uses WAD and arrow keys to move around. There is also background music~!
+This is my silly little platformer game with a total of three levels. The first two levels are just platforms, but the last level takes it up a notch with the addition of restarting when falling. The game uses WAD and arrow keys to move around. There is also background music~! Play my game [here](https://ssno8.itch.io/haven-jumpstart) :D
 
 ## Credits
 

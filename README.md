@@ -19,3 +19,8 @@ _Textures:_
 ### NO AI WAS USED IN THE CREATION OF THIS GAME
 
 ## How to Run the Game Locally
+1. Download the latest version of Godot for your device [here](https://godotengine.org/download)
+2. Download the games [Zip file](https://github.com/ssno8/Kings-Jumpstart-Haven-Project/archive/refs/heads/main.zip) and extract it
+3. Open the Godot engine -> click on **Import** -> select the extracted game files and open
+4. Play the game by clicking on the play button or use F5
+5. Enjoy!
